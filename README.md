@@ -1,5 +1,6 @@
 #Lab 3 - Kontenery i adaptery
 
+## Test
 ## Zadania
 Na dzisiejszy kod początkowy składa się klasa **Slav** i częściowo uzupełniony już plik `main.cpp`. Klasa **Slav** opisuje abstrakcję Słowianina/Słowianki, w konstruktorze domyślnym przypisując mu imię (dostępne za pośrednictwem funkcji `name()`) i unikalny numer identyfikacyjny (`id()`). Ma ona również funkcję `description()`, która pozwoli nam łatwo wykorzystywać `cout` do wyświetlania informacji o obiektach tej klasy.
 
