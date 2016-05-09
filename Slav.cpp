@@ -1,6 +1,9 @@
 #include "Slav.h"
 #include <fstream>
 
+#include <iterator>
+#include <ctime>
+
 using namespace std;
 
 vector <string> Slav::names;
